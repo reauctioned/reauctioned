@@ -1,4 +1,6 @@
-![image](https://github.com/reauctioned/reauctioned/assets/84169439/e0e602e8-6225-4178-ab7b-8db38caff710)
+![obse2](https://github.com/reauctioned/reauctioned/assets/84169439/621d3e48-3ee5-453f-9b75-7ddc8cc34a68)
+
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reauctioned) 
