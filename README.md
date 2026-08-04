@@ -9,23 +9,15 @@
   and occasionally automating something just because I'm too lazy to do it myself.
 </p>
 
-<p align="center">
-  <b>⚡ If I do something more than twice, I'm probably going to automate it.</b>
-</p>
-
----
-
 ### 🛠️ What I do
 
 - 💻 Build random projects that I think are cool
 - 🤖 Automate boring/repetitive stuff
 - 🎨 Mess around with web development, UI/UX and full-stack projects
 - 🧪 Experiment with things that probably didn't need to be built
-- 🎮 Occasionally make my GitHub README playable
 
-### 🎮 Speaking of...
+### What if we played some Pokemon 😋😋😋
 
-Why have a normal GitHub README when you can have a **Game Boy**?
 
 <p align="center">
   <img src="https://raising-nhs-consistently-followed.trycloudflare.com/image" width="320">
