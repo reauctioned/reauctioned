@@ -26,48 +26,47 @@
 
 <p align="center">
   <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/up.png" width="30"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/left.png" width="30"/>
   </a>
 
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/blank.png" width="30"/>
 
   <a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/right.png" width="30"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/down.png" width="30"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/B.png" width="30"/>
   </a>
 
   <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/A.png" width="30"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/select.png" width="74"/>
   </a>
 
   <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/reauctioned">
-    <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/>
+    <img src="https://raw.githubusercontent.com/reauctioned/reauctioned/main/img/start.png" width="65"/>
   </a>
 </p>
-
 
 ---
 
